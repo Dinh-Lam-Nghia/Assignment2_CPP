@@ -1,0 +1,5 @@
+---Bệnh nhân ngoại trú!---
+Số tiền thuốc: 12
+Số tiền dịch vụ khám bệnh: 12
+-----------------------------
+ Tổng chi phí phải trả: 24
